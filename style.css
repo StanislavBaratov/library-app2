@@ -5,3 +5,5 @@
 @import url(./header/__logo/header__logo.css);
 @import url(./burger-button/burger-button.css);
 @import url(./header/__burger-button/header__burger-button.css);
+@import url(./search-button/search-button.css);
+@import url(./header/__search-button/header__search-button.css);
