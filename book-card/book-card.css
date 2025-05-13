@@ -1,0 +1,7 @@
+.book-card {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1rem;
+    box-shadow: 2px 3px 6px 3px #00000024;
+}
